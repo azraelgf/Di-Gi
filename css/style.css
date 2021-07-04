@@ -1270,13 +1270,13 @@ body {
 @media (min-width: 640px) {
   .footer__btn-top {
     text-align: right;
-    margin-right: 20px;
+    padding-right: 20px;
   }
 }
 @media (min-width: 1440px) {
   .footer__btn-top {
     text-align: right;
-    margin-right: 65px;
+    padding-right: 65px;
   }
 }
 @media (min-width: 640px) {
